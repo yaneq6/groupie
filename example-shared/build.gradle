@@ -29,4 +29,5 @@ dependencies {
     api "androidx.cardview:cardview:1.0.0"
     api "androidx.vectordrawable:vectordrawable:1.0.0"
     api "androidx.vectordrawable:vectordrawable-animated:1.0.0"
+    api 'jp.wasabeef:recyclerview-animators:3.0.0'
 }
